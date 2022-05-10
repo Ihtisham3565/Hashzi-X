@@ -81,7 +81,7 @@
 #### සරල ක්‍රමය
 
 #### ඔබට පහසුවෙන්ම Repl.it මඟින් QR ගන්න පුලුවන්..පහල  බටනය භාවිත කරන්න
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/Alexa?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/ihtisham3565/Alexa?v=1)
 
 
 #### Termux මඟින් ලබාගන්න
@@ -98,7 +98,7 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 පළමු උපාංගයෙන් ඔබට Amazone Bot install කිරීමට අවශ්‍යයි..
 ```
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ihtisham3565/Hashzi-X)
 
 
 > [සම්පූර්ණ සිංහල Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
